@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 The project allows users to look up the number of people in a given region in a given year.
-Usage: http://127.0.0.1:5000//population//<region>//<year>
+Usage: [http://127.0.0.1:5000//population/<region>/<year>](http://127.0.0.1:5000//population/<region>/<year>)
 
 
 ## MAIN STEPS:
