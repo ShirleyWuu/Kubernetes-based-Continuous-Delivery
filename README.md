@@ -6,9 +6,10 @@ Usage: http://127.0.0.1:5000//population/[region]/[year]
 
 
 ## MAIN STEPS:
-/1. Create a Microservice in Flask or Fast API
-/2. Push source code to Github
-Configure Build System to Deploy changes
-Use IaC (Infrastructure as Code) to deploy code
-Use either AWS, Azure, GCP (recommended services include Google App Engine, AWS App Runner or Azure App Services)
-Containerization is optional, but recommended
+Create a Microservice in Flask or Fast API <br>
+Push source code to Github <br>
+Configure Build System to Deploy changes <br>
+Use IaC (Infrastructure as Code) to deploy code <br>
+Use either AWS, Azure, GCP (recommended services include Google App Engine, AWS App Runner or Azure App Services) <br>
+Containerization is optional, but recommended <br>
+<br>
