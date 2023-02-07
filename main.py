@@ -1,3 +1,11 @@
+'''
+Author: Xiangyin Wu xiangyin.wu@duke.edu
+Date: 2023-01-24 22:18:25
+LastEditors: Xiangyin Wu xiangyin.wu@duke.edu
+LastEditTime: 2023-02-07 14:15:01
+FilePath: /Cloud-Continuous-Delivery-of-Microservice/main.py
+Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+'''
 import os
 from flask import Flask, render_template, abort, url_for, json, jsonify
 import json
@@ -11,7 +19,7 @@ app = Flask(__name__)
 def hello():
     """Return a friendly HTTP greeting."""
     print("I am inside hello world")
-    return "Hello World! CD"
+    return "Hello World!"
 
 
 @app.route("/echo/<name>")
@@ -30,9 +38,6 @@ def index(region, year):
     # return render_template('map-usa.html')
     # return render_template('map-usa.html', title="page", jsonfile=json.dumps(data))
 
-@app.route("/hk")
-def indexHK():    
-    return render_template('map-HK.html')
 
 @app.route('/population/usa/usa_data')
 def usa_data():
@@ -51,4 +56,5 @@ def hk_data():
 
 
 if __name__ == "__main__":
-    app.run(host="127.0.0.1", port=5000, debug=True)
+    # app.run(host="127.0.0.1", port=3002, debug=True)
+    app.run(host="0.0.0.0", port=8090, debug=True)
