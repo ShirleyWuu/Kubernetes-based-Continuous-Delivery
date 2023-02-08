@@ -51,6 +51,8 @@ You can use this link to check this feature： https://smz6buzdrn.us-east-1.awsa
 
 ### Use IaC (Infrastructure as Code) to deploy code
 I implement my .yml file on Github Action contributing on IaC.
+![image](https://user-images.githubusercontent.com/123136573/217564763-0300fc71-7165-4c98-b326-527bade9a2ba.png)
+
 
 ### Containerization
 Use docker. <br>
