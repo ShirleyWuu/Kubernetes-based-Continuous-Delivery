@@ -61,6 +61,9 @@ I implement my .yml file on Github Action contributing on IaC.
 
 ### Containerization
 Use docker. <br>
+
+Using Docker, you can quickly deploy and scale applications into any environment and know your code will run. <br>
+
 ![image](https://user-images.githubusercontent.com/123136573/217446276-b3f5bf9d-273e-43ea-9b04-9a1d57106489.png)
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/123136573/217446399-c51b1429-ef11-4035-b218-c8820df59805.png">
 Using docker in AWS Cloud9 directly: <br>
