@@ -1,3 +1,4 @@
+[![Docker Image CI](https://github.com/ShirleyWuu/Cloud-Continuous-Delivery-of-Microservice/actions/workflows/docker-image.yml/badge.svg)](https://github.com/ShirleyWuu/Cloud-Continuous-Delivery-of-Microservice/actions/workflows/docker-image.yml)
 # Cloud Continuous Delivery of Microservice
 
 ## INTRODUCTION
