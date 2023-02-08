@@ -1,7 +1,9 @@
 # Cloud Continuous Delivery of Microservice
 
 ## INTRODUCTION
-The project allows users to look up the number of people in a given region in a given year. <br>
+**The project allows users to look up the number of people in a given region in a given year.** <br>
+
+![proj1-demo-pic](https://user-images.githubusercontent.com/123136573/217571667-d778d314-8551-4cf5-a5c8-bc6e0580c216.png)
 
 **Demo**  <br>
 https://smz6buzdrn.us-east-1.awsapprunner.com/  <br>
