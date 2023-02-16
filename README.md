@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/123136573/217581469-e77206ce-c283-41a7
 - Configure Build System to Deploy changes <br>
 - Use IaC (Infrastructure as Code) to deploy code <br>
 - Use either AWS, Azure, GCP (recommended services include Google App Engine, AWS App Runner or Azure App Services) <br>
-- Containerization is optional, but recommended[Use docker] <br>
+- Containerization via Docker and push into DockerHub and AWS Elastic Container Registry(ECR) <br>
 
 ### How to deploy this project in local IDE?
 **Way 1：Simply use flask**
@@ -75,5 +75,9 @@ Using Docker, you can quickly deploy and scale applications into any environment
 Using docker in AWS Cloud9 directly: <br>
 
 ![image](https://user-images.githubusercontent.com/123136573/217446630-0c048823-3b4a-4157-b604-ea58e4ba69b7.png)
+
+Push image in AWS ECR: <br>
+
+<img width="1065" alt="image" src="https://user-images.githubusercontent.com/123136573/219414526-1f5bcf05-03a0-4a83-9749-3fcab9e525de.png">
 
 
