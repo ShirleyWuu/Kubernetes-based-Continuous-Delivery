@@ -41,3 +41,5 @@ minikube stop
 
 <img width="1185" alt="image" src="https://user-images.githubusercontent.com/123136573/222063879-ef9c8724-78ef-4c25-b740-581e8da75541.png">
 
+#### MATERIAL
+https://github.com/nogibjj/coursera-applied-de-kubernetes-lab
